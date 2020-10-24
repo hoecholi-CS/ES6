@@ -1,4 +1,14 @@
 <div align="center">
-  <img height="60" src="https://img.icons8.com/color/344/javascript.png">
+  <img height="80" src="https://img.icons8.com/color/344/javascript.png">
   <h1>ECMAScript6 ES6</h1>
 </div>
+
+## 👨‍💻 ON-SOPT ES6 스터디
+
+-   일정 : 2020년 10월 24일(토)부터 시작
+-   장소 : 온라인 (zoom 이용)
+
+## ❤️ 참여자
+
+-   Park Sangsu [:octocat:](https://github.com/epitoneproject)
+-   Choi jeonggyun [:octocat:](https://github.com/wjdrbs96)
