@@ -2,7 +2,8 @@
 
   <img height="130" width="130" src="https://img.icons8.com/color/344/javascript.png">
 
-  <h1>ECMAScript6 ES6</h1>
+  # ECMAScript6 ES6
+  
 </div>
 
 <div align=center>
