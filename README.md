@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img height="80" width="200" src="https://img.icons8.com/color/344/javascript.png">
+  <img height="200" width="200" src="https://img.icons8.com/color/344/javascript.png">
   <h1>ECMAScript6 ES6</h1>
 </div>
 
